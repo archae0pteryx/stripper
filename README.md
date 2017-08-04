@@ -14,7 +14,7 @@
 
 to install globally (assuming /usr/local/bin is in your $PATH)
 
-```chmod +x stripper.sh && cp stripper.sh /usr/local/bin/stripper```
+```chmod +x stripper.sh && sudo cp stripper.sh /usr/local/bin/stripper```
 
 then re-source your shell. Use wherever.
 
