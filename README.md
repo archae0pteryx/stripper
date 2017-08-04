@@ -100,7 +100,7 @@ to install globally (assuming /usr/local/bin is in your $PATH)
 then re-source your shell. Use wherever.
 
 TODO: 
-- Create sexy graphic
+- ~~Create sexy graphic~~
 - Option for inline comments
 - Option for other types of comments
 - Option for whole folders
