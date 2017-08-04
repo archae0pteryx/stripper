@@ -1,6 +1,5 @@
-# Comment stripper
-## Q: Why?
-## A: Because.
+# Javascript Comment stripper
+### Strip comments from any js file for a clearer mind.
 
 usage:
 
