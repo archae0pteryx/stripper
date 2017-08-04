@@ -2,6 +2,9 @@
 ### Strip comments from any js file for a clearer mind.
 #### Currently this won't strip comments that are inline.
 
+Q: Why?
+A: Because you wrote too many useless comments... QUIT.
+
 usage:
 
 ```chmod +x stripper.sh```
